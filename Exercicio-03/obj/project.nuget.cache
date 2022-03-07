@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/UdYq4LxMCs843r9V5vK/ByxmhSlVO5l6WI3kmE8TL2rVDos7fMHwAtTUGBhzH9aEZDp1S6bCw2HnKU7/Pd2EQ==",
+  "success": true,
+  "projectFilePath": "/home/abdon/Documentos/facec/Exercicios-Facec-C--2022/Exercicio-03/Exercicio-03.csproj",
+  "expectedPackageFiles": [
+    "/home/abdon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
